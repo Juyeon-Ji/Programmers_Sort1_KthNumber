@@ -1,3 +1,3 @@
-# typescript-9sp1p3
+# programmers-sort1-kthnumber
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/typescript-9sp1p3)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/programmers-sort1-kthnumber)
